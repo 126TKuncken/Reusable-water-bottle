@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+.navbar {
+    padding: 10px 50px;
+}
+
+.jumbotron{
+    background: url('../img/Drake-e1693935526783.png');
+    height: 600px;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    align-items: center;
+    padding: 0;
+    margin-bottom: 2em;
+}
+
+h1{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+h4{
+    color: aliceblue;
+}
+
+.card-text{
+    color: black;
+}
